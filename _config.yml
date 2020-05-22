@@ -12,7 +12,7 @@ author: Tasuku Akiyama
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Lab Member: "Lab Member"
+  Lab Member: "labmember"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
