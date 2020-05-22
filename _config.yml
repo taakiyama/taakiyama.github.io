@@ -12,6 +12,7 @@ author: Tasuku Akiyama
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About Me: "About Me"
   Lab Member: "labmember"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
