@@ -13,13 +13,13 @@ Jump to [staff](#staff), [Graduate students](#Graduate students), [undergraduate
 
 ## Staff   
    
-##### Tasuku Akiyama, PhD
-###### Associate Professor  
+Tasuku Akiyama, PhD
+Associate Professor  
 Neuroscience Program Faculty  
 Humane Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
 
-##### Kent Sakai, PhD
+Kent Sakai, PhD
 Entry Scientist  
 
 ##### Hideki Funahashi, MD/PhD
