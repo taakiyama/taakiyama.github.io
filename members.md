@@ -13,7 +13,7 @@ Jump to [staff](#staff), [Graduate students](#Graduate students), [undergraduate
 
 ## Staff   
    
-Tasuku Akiyama, PhD  
+_Tasuku Akiyama, PhD_  
 Associate Professor  
 Neuroscience Program Faculty  
 Human Genetics Genomics Program Faculty  
