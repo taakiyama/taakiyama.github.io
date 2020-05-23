@@ -6,7 +6,7 @@ sitemap: false
 permalink: /members/
 ---
 
- **We are looking for new PhD students, Postdocs, and Master students to join the lab[email us](mailto:takiyama@miami.edu)** **!**
+ **We are looking for new PhD students, Postdocs, and Master students to join the lab [email us](mailto:takiyama@miami.edu)** **!**
 
 ## Staff   
    
