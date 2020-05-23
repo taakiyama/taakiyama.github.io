@@ -7,7 +7,9 @@ rank: 4
 ---
 \*Authors contributed equally<br>
 
-Members of the Akiyama laboratory indicated in _italic_
+Members of the Akiyama laboratory indicated in _italic_  
+
+# Journal Articles
 
 ## 2019
 [Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)
@@ -121,3 +123,10 @@ Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123.
 **Bushell KR**, **Kim Y**, Chan FC, Ben-Neriah S, **Jenks A**, **Alcaide M**, **Fornika D**, **Grande BM**, **Arthur S**, Gascoyne RD, Steidl C, **Morin RD**.
 <br>
 Blood. 2015 Feb 5;125(6):999-1005. doi: 10.1182/blood-2014-10-602714. 
+
+# Review Articles
+
+
+# Book
+
+# Book Chapters
