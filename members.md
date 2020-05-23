@@ -154,6 +154,9 @@ Undergraduate student
 _Marina Youssef_
 Undergraduate student
 
+_Yoshihiro Inami, PhD_
+Postdoctral fellow
+
 _Kevin Yanushefski_
 Medical student
 
