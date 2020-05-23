@@ -148,16 +148,16 @@ _Taisa Lozada_
 _Kristen Sanders, PhD_  
 Neuroscience Program   
 
-_Tyler Henry_
+_Tyler Henry_    
 Undergraduate student
 
-_Marina Youssef_
+_Marina Youssef_    
 Undergraduate student
 
-_Yoshihiro Inami, PhD_
+_Yoshihiro Inami, PhD_    
 Postdoctral fellow
 
-_Kevin Yanushefski_
+_Kevin Yanushefski_    
 Medical student
 
 
