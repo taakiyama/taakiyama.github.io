@@ -16,6 +16,12 @@ navbar-links:
   Members: "members"
   Publications: "publications"
   Resources:
+    - Society fo Neuroscience: "https://www.sfn.org/"
+    - IASP: "https://www.iasp-pain.org/"
+    - IFSI: "https://www.itchforum.net/"
+    - Pain Research Forum: "https://www.painresearchforum.org/"
+    - ActaDV: "https://www.medicaljournals.se/acta/"
+    - Pubmed: "https://pubmed.ncbi.nlm.nih.gov/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   
