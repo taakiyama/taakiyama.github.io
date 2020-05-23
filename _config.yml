@@ -13,7 +13,7 @@ author: Tasuku Akiyama
 
 navbar-links:
   Research: "research"
-  Lab Member: "labmember"
+  Members: "members"
   Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
