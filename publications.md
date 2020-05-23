@@ -83,7 +83,7 @@ J Comp Neurol. 2016 Feb 1;524(2):244-56.
 
 [## publications (~2015)](https://www.researchgate.net/profile/Tasuku_Akiyama)
 
-# Review Articles
+# _Review Articles_
 
 [Why Does Stress Aggravate Itch? A Possible Role of the Amygdala](https://pubmed.ncbi.nlm.nih.gov/30991457/?from_term=akiyama+itch&from_sort=date&from_pos=2)
 _Pavlenko D_, _Akiyama T_. Exp Dermatol. 2019 Dec;28(12):1439-1441.
@@ -108,12 +108,12 @@ Curr Probl Dermatol. 2016;50:11-7.
 _Akiyama T_, Carstens E.
 Neuroscience. 2013 Oct 10;250:697-714.
 
-# Book
+# _Book_
 ![Book](images/Book.jpg | width=100)
 “Itch: Mechanisms and Treatment”, CRC Press. 2014
 _Akiyama T_, and Carstens E. (Eds.) 
 
-# Book Chapters
+# _Book Chapters_
 “Preclinical models of itch and pain” in “Itch and Pain: Similarities, Interactions, and Differences” Yosipovitch G, Andersen HH, and Arendt-Nielsen L (Eds). International Association for the Study of Pain (IASP) Press. 2020   
 _Sanders KM_, and _Akiyama T_.
 
