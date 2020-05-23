@@ -146,7 +146,16 @@ _Taisa Lozada_
    
 ## Alumni
 _Kristen Sanders, PhD_  
-Neuroscience Program
+Neuroscience Program   
+
+_Tyler Henry_
+Undergraduate student
+
+_Marina Youssef_
+Undergraduate student
+
+_Kevin Yanushefski_
+Medical student
 
 
 
