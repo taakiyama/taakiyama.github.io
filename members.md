@@ -9,15 +9,20 @@ permalink: /members/
  **We are  looking for new PhD students, Postdocs, and Master students to join the lab** **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
+Jump to [staff](#staff), [Graduate students](#Graduate students), [undergraduate students](#undergraduate students), [alumni](#alumni).
 
 ## Staff
-Tasuku Akiyama, PhD  
+### Tasuku Akiyama, PhD  
 Associate Professor  
 Neuroscience Program Faculty  
 Humane Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
 
+### Kent Sakai, PhD
+Entry Scientist
+
+### Hideki Funahashi, MD/PhD
+Postdoctral Scientist
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -80,10 +85,12 @@ Director of Animal Studies at the Miami Itch Center
 </div>
 {% endif %}
 
+## Graduate Students
+### Darya Pavlenko, MS 
 
+## Undergraduate Students
+### Taisa Lozada
 
-
-## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -169,30 +176,6 @@ Director of Animal Studies at the Miami Itch Center
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 </div>
 
