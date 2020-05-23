@@ -148,6 +148,9 @@ _Taisa Lozada_
 _Kristen Sanders, PhD_  
 Neuroscience Program   
 
+_Anita Oladunni, BS_   
+Master student  
+
 _Tyler Henry_    
 Undergraduate student
 
