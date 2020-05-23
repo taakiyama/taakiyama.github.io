@@ -13,16 +13,16 @@ Jump to [staff](#staff), [Graduate students](#Graduate students), [undergraduate
 
 ## Staff   
    
-Tasuku Akiyama, PhD
+Tasuku Akiyama, PhD  
 Associate Professor  
 Neuroscience Program Faculty  
-Humane Genetics Genomics Program Faculty  
+Human Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
 
-Kent Sakai, PhD
+Kent Sakai, PhD  
 Entry Scientist  
 
-##### Hideki Funahashi, MD/PhD
+Hideki Funahashi, MD/PhD  
 Postdoctral Scientist   
 
 {% assign number_printed = 0 %}
@@ -86,14 +86,13 @@ Postdoctral Scientist
 </div>
 {% endif %}
 
-## Graduate Students   
-#### Darya Pavlenko, MS
-
+## PhD Students   
+Darya Pavlenko, MS  
+Human Genetics Genomics Program  
    
-    
-    
+     
 ## Undergraduate Students   
-#### Taisa Lozada
+Taisa Lozada  
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -149,6 +148,11 @@ Postdoctral Scientist
    
    
 ## Alumni
+Kristen Sanders, PhD  
+Neuroscience Program
+
+
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
