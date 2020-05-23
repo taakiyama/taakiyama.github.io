@@ -8,9 +8,6 @@ permalink: /members/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the lab** **!**
 
-
-Jump to [staff](#staff), [PhD students](#PhD students), [undergraduate students](#undergraduate students), [alumni](#alumni).
-
 ## Staff   
    
 _Tasuku Akiyama, PhD_  
