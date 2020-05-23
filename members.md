@@ -20,7 +20,7 @@ _Kent Sakai, PhD_
 Entry Scientist  
 
 _Hideki Funahashi, MD/PhD_  
-Postdoctral Scientist   
+Postdoctral Researcher   
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -155,7 +155,7 @@ _Marina Youssef_
 Undergraduate student
 
 _Yoshihiro Inami, PhD_    
-Postdoctral fellow
+Postdoctral Researcher 
 
 _Kevin Yanushefski_    
 Medical student
