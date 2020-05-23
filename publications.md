@@ -104,11 +104,14 @@ _Akiyama T_, Carstens E.
 Neuroscience. 2013 Oct 10;250:697-714.
 
 # Book
-![Book](images/Book.jpg =50x)
+![Book](images/Book.jpg | width=50)
 “Itch: Mechanisms and Treatment”, CRC Press. 2014
 _Akiyama T_, and Carstens E. (Eds.) 
 
 # Book Chapters
+“Preclinical models of itch and pain” in “Itch and Pain: Similarities, Interactions, and Differences” Yosipovitch G, Andersen HH, and Arendt-Nielsen L (Eds). International Association for the Study of Pain (IASP) Press. 2020
+_Sanders KM_, and _Akiyama T_.
+
 [Central Mechanisms of Itch](https://pubmed.ncbi.nlm.nih.gov/27578065/?from_term=akiyama+itch&from_sort=date&from_page=2&from_pos=10)
 <br>
 Carstens E, _Akiyama T_.
