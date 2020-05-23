@@ -7,21 +7,16 @@ rank: 4
 ---
 \*Authors contributed equally<br>
 
-Members of the Morin laboratory indicated in **boldface**
-
-## 2020
-[**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://www.biorxiv.org/content/10.1101/686956v1)
-
-**Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. In press.
+Members of the Akiyama laboratory indicated in _italic_
 
 ## 2019
-[**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH**](https://www.ncbi.nlm.nih.gov/pubmed/31527075)
+[Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)
 
-**Hilton LK, Tang J,** Ben-Neriah S, **Alcaide M, Jiang A, Grande BM, Rushton CK,** Boyle M, Meissner B, Scott DW, **Morin RD**. Blood. 2019 Oct 31;134(18):1528-1532. 
+Hashimoto T, _Sakai K_, Yosipovitch G, _Akiyama T_. Acta Derm Venereol. 2019 Sep 1;99(10):901-902. 
 
-[**Ultrasensitive Detection of Circulating Tumor DNA in Lymphoma via Targeted Hybridization Capture and Deep Sequencing of Barcoded Libraries**](https://link.springer.com/protocol/10.1007%2F978-1-4939-9151-8_20)
+[Why Does Stress Aggravate Itch? A Possible Role of the Amygdala](https://pubmed.ncbi.nlm.nih.gov/30991457/?from_term=akiyama+itch&from_sort=date&from_pos=2)
 
-**Miguel Alcaide**, **Christopher Rushton**, **Ryan D. Morin**. Methods Molecular Biology. 2019;1956:383-435.
+_Pavlenko D_, _Akiyama T_. Exp Dermatol. 2019 Dec;28(12):1439-1441.
 
 [**Genome-wide discovery of somatic coding and non-coding mutations in pediatric endemic and sporadic Burkitt lymphoma**](http://www.bloodjournal.org/content/133/12/1313)
 
