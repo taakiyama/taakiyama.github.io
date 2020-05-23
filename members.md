@@ -1,11 +1,10 @@
 ---
+title: Lab Members
 layout: page
 excerpt: "Akiyama Lab: Members"
 sitemap: false
 permalink: /members/
 ---
-
-# Lab Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the lab** **!**
 
@@ -13,6 +12,13 @@ permalink: /members/
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
 
 ## Staff
+Tasuku Akiyama, PhD
+Associate Professor
+Neuroscience Program Faculty
+Humane Genetics Genomics Program Faculty
+Director of Animal Studies at the Miami Itch Center
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
