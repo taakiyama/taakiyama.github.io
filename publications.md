@@ -109,7 +109,8 @@ _Akiyama T_, Carstens E.
 Neuroscience. 2013 Oct 10;250:697-714.
 
 # _Book_
-![Book](images/Book.jpg | width=100)
+![Book](images/Book.jpg)   
+
 “Itch: Mechanisms and Treatment”, CRC Press. 2014
 _Akiyama T_, and Carstens E. (Eds.) 
 
