@@ -12,8 +12,9 @@ permalink: /members/
 Jump to [staff](#staff), [Graduate students](#Graduate students), [undergraduate students](#undergraduate students), [alumni](#alumni).
 
 ## Staff   
+   
 ##### Tasuku Akiyama, PhD
-Associate Professor  
+######Associate Professor  
 Neuroscience Program Faculty  
 Humane Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
