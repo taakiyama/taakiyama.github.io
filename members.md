@@ -3,7 +3,7 @@ title: "Akiyama Lab - Members"
 layout: gridlay
 excerpt: "Akiyama Lab: Members"
 sitemap: false
-permalink: /labmember/
+permalink: /members/
 ---
 
 # Group Members
