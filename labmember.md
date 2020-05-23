@@ -1,16 +1,12 @@
-title	layout	excerpt	sitemap	permalink
-Allan Lab - Team
-gridlay
-Allan Lab: Team members
-false
-/team/
-Group Members
-We are looking for new PhD students, Postdocs, and Master students to join the team [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) !
-
-Jump to staff, master and bachelor students, alumni, administrative support, lab visitors.
+We are looking for new PhD students, Postdocs, and Master students to join the team!
 
 Staff
 {% assign number_printed = 0 %} {% for member in site.data.team_members %}
+Tasuku Akiuyama   
+Associate Professor   
+Neuroscience Program Faculty  
+Human Genetics and Genomics Program Faculty   
+Director of Animal Studies at the Miami Itch Center
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
