@@ -2,7 +2,9 @@
 layout: page
 title: Projects
 subtitle: 
-cover-img: images/m_FRS101752.jpg
+cover-img: 
+- images/s_Digital_Transformation_Concept_-_Virtual_Hand_Creating_Network.jpg
+- images/s_Which_Door_to_Choose_-_Difficult_Choices_Concept.jpg
 ---
 
 #### 1. Brain Circuits of Itch, Pain, and Anxiety
