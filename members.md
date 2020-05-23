@@ -1,6 +1,6 @@
 ---
 title: "Akiyama Lab - Members"
-layout: gridlay
+layout: page
 excerpt: "Akiyama Lab: Members"
 sitemap: false
 permalink: /members/
