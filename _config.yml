@@ -85,7 +85,7 @@ excerpt_length: 50
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
-page-img: "images/s_Learning_and_Education_-_Brain_Functions_Development_Concept.jpg"
+page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
