@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: 
+cover-img: images/m_FRS101752.jpg
 ---
 
 #### 1. Brain Circuits of Itch, Pain and Anxiety
