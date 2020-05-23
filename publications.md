@@ -20,7 +20,7 @@ _Pavlenko D_, _Akiyama T_. Exp Dermatol. 2019 Dec;28(12):1439-1441.
 
 [A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3)
 _Sanders KM_, _Sakai K_, _Henry TD_, Hashimoto T, _Akiyama T_.
-J Neurosci. 2019 Apr 24;39(17):3345-3356. doi: 10.1523/JNEUROSCI.2759-18.2019.
+J Neurosci. 2019 Apr 24;39(17):3345-3356. 
 
 [Disinhibition of Touch-Evoked Itch in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30571971/?from_term=akiyama+itch&from_sort=date&from_pos=4)
 _Sakai K_, _Akiyama T_.
