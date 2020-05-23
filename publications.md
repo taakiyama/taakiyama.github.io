@@ -9,21 +9,21 @@ rank: 4
 
 Members of the Akiyama laboratory indicated in _italic_  
 
-# _Journal Articles_    
+# _Journal Articles_    <br>
 
 ## 2019
-[Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)
+[Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)   
 Hashimoto T, _Sakai K_, Yosipovitch G, _Akiyama T_. Acta Derm Venereol. 2019 Sep 1;99(10):901-902. 
 
-[A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3)
+[A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3)   
 _Sanders KM_, _Sakai K_, _Henry TD_, Hashimoto T, _Akiyama T_.
 J Neurosci. 2019 Apr 24;39(17):3345-3356. 
 
-[Disinhibition of Touch-Evoked Itch in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30571971/?from_term=akiyama+itch&from_sort=date&from_pos=4)
+[Disinhibition of Touch-Evoked Itch in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30571971/?from_term=akiyama+itch&from_sort=date&from_pos=4)    
 _Sakai K_, _Akiyama T_.
 J Invest Dermatol. 2019 Jun;139(6):1407-1410. 
 
-[Antipruritic Effects of Janus Kinase Inhibitor Tofacitinib in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30460374/?from_term=akiyama+itch&from_sort=date&from_pos=5)
+[Antipruritic Effects of Janus Kinase Inhibitor Tofacitinib in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30460374/?from_term=akiyama+itch&from_sort=date&from_pos=5)   
 Hashimoto T, _Sakai K_, _Sanders KM_, Yosipovitch G, _Akiyama T_.
 Acta Derm Venereol. 2019 Mar 1;99(3):298-303.
 
@@ -85,12 +85,11 @@ J Comp Neurol. 2016 Feb 1;524(2):244-56.
 
 # _Review Articles_
 
-[Why Does Stress Aggravate Itch? A Possible Role of the Amygdala](https://pubmed.ncbi.nlm.nih.gov/30991457/?from_term=akiyama+itch&from_sort=date&from_pos=2)
+[Why Does Stress Aggravate Itch? A Possible Role of the Amygdala](https://pubmed.ncbi.nlm.nih.gov/30991457/?from_term=akiyama+itch&from_sort=date&from_pos=2)     
 _Pavlenko D_, _Akiyama T_. Exp Dermatol. 2019 Dec;28(12):1439-1441.
 
 [Alloknesis and Hyperknesis-Mechanisms, Assessment Methodology, and Clinical Implications of Itch Sensitization](https://pubmed.ncbi.nlm.nih.gov/29659469/?from_term=akiyama+itch&from_sort=date&from_pos=10)
-<br>
-Andersen HH, _Akiyama T_, Nattkemper LA, van Laarhoven A, Elberling J, Yosipovitch G, Arendt-Nielsen L.
+<br>Andersen HH, _Akiyama T_, Nattkemper LA, van Laarhoven A, Elberling J, Yosipovitch G, Arendt-Nielsen L.
 Pain. 2018 Jul;159(7):1185-1197.
 
 [The Vicious Cycle of Itch and Anxiety](https://pubmed.ncbi.nlm.nih.gov/29374516/?from_term=akiyama+itch&from_sort=date&from_page=2&from_pos=1)
