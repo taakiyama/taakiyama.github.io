@@ -8,11 +8,11 @@ cover-img:
 ---
 
 #### 1. Brain Circuits of Itch, Pain, and Anxiety
-- Amygdala
+- Key words: Amygdala, mPFC
 
 
 #### 2. Mechanisms behind Relief of Itch by Scratching
-- Spinal Cord
+- Key words: Spinal Cord
 
 #### 3. Roles of Neuroimmune Interaction in Itch and Pain
-- Cytokines
+- Key words: Cytokines, Neutrophils
