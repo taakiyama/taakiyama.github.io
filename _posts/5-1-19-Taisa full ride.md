@@ -1,0 +1,1 @@
+a full ride scholarship
