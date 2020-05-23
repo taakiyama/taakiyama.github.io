@@ -13,28 +13,24 @@ Members of the Akiyama laboratory indicated in _italic_
 
 ## 2019
 [Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)
-
 Hashimoto T, _Sakai K_, Yosipovitch G, _Akiyama T_. Acta Derm Venereol. 2019 Sep 1;99(10):901-902. 
 
 [Why Does Stress Aggravate Itch? A Possible Role of the Amygdala](https://pubmed.ncbi.nlm.nih.gov/30991457/?from_term=akiyama+itch&from_sort=date&from_pos=2)
-
 _Pavlenko D_, _Akiyama T_. Exp Dermatol. 2019 Dec;28(12):1439-1441.
 
-[**Genome-wide discovery of somatic coding and non-coding mutations in pediatric endemic and sporadic Burkitt lymphoma**](http://www.bloodjournal.org/content/133/12/1313)
+[A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3)
+_Sanders KM_, _Sakai K_, _Henry TD_, Hashimoto T, _Akiyama T_.
+J Neurosci. 2019 Apr 24;39(17):3345-3356. doi: 10.1523/JNEUROSCI.2759-18.2019.
 
-**Bruno M. Grande**\*, Daniela S. Gerhard\*, **Aixiang Jiang**, Nicholas B. Griner, Jeremy S. Abramson, Thomas B. Alexander, Hilary Allen, Leona W. Ayers, Jeffrey M. Bethony, Kishor Bhatia, Jay Bowen, Corey Casper, John Kim Choi, Luka Culibrk, Tanja M. Davidsen, Maureen A. Dyer, Julie M. Gastier-Foster, Patee Gesuwan, Timothy C. Greiner, Thomas G. Gross, Benjamin Hanf, Nancy Lee Harris, Yiwen He, John D. Irvin, Elaine S. Jaffe, Steven J.M. Jones, Patrick Kerchan, **Nicole Knoetze**, Fabio E. Leal, Tara M. Lichtenberg, Yussanne Ma, Jean Paul Martin, Marie-Reine Martin, Sam M. Mbulaiteye, Charles G. Mullighan, Andrew J. Mungall, Constance Namirembe, Karen Novik, Ariela Noy, Martin D. Ogwang, Abraham Omoding, Jackson Orem, Steven J. Reynolds, **Christopher K. Rushton**, John T. Sandlund, Roland Schmitz, Cynthia Taylor, Wyndham H. Wilson, George W. Wright, Eric Y. Zhao, Marco A. Marra, **Ryan D. Morin**\*, and Louis M. Staudt\*. Blood, 133(12):1313–1324, 2019.
+[Disinhibition of Touch-Evoked Itch in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30571971/?from_term=akiyama+itch&from_sort=date&from_pos=4)
+_Sakai K_, _Akiyama T_.
+J Invest Dermatol. 2019 Jun;139(6):1407-1410. 
 
-[**Editorial**](http://www.bloodjournal.org/content/133/12/1269)
-
-[**In the News**](https://scienceinthecity.com/2019/01/23/genome-wide-discovery-of-somatic-coding-and-non-coding-mutations-in-pediatric-endemic-and-sporadic-burkitt-lymphoma/)
-
-[**Terry Fox Research Highlight**](https://www.tfri.ca/updates/news/news-item/team-identifies-new-classification-system-for-burkitt-s-lymphoma-and-opens-door-for-more-precise-treatments)
-
-[**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**](https://jmd.amjpathol.org/article/S1525-1578(18)30114-4/fulltext)<br>
-**Alcaide M\***, **Cheung M\***, **Bushell K\***, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**. Journal of Molecular Diagnostics. J Mol Diagn. 2019 Mar;21(2):214-227.
+[Antipruritic Effects of Janus Kinase Inhibitor Tofacitinib in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30460374/?from_term=akiyama+itch&from_sort=date&from_pos=5)
+Hashimoto T, _Sakai K_, _Sanders KM_, Yosipovitch G, _Akiyama T_.
+Acta Derm Venereol. 2019 Mar 1;99(3):298-303.
 
 ## 2018
-
 [**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583)<br>
 Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
 Journal of Clinical Oncology. December 3, 2018. 
