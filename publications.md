@@ -98,6 +98,11 @@ Pain. 2018 Jul;159(7):1185-1197.
 _Sanders KM_, _Akiyama T_.
 Neurosci Biobehav Rev. 2018 Apr;87:17-26. 
 
+[Central Mechanisms of Itch](https://pubmed.ncbi.nlm.nih.gov/27578065/?from_term=akiyama+itch&from_sort=date&from_page=2&from_pos=10)
+<br>
+Carstens E, _Akiyama T_.
+Curr Probl Dermatol. 2016;50:11-7.
+
 [Neural Processing of Itch](https://pubmed.ncbi.nlm.nih.gov/23891755/?from_term=akiyama+itch&from_sort=date&from_page=4&from_pos=9)
 <br>
 _Akiyama T_, Carstens E.
@@ -112,7 +117,29 @@ _Akiyama T_, and Carstens E. (Eds.)
 “Preclinical models of itch and pain” in “Itch and Pain: Similarities, Interactions, and Differences” Yosipovitch G, Andersen HH, and Arendt-Nielsen L (Eds). International Association for the Study of Pain (IASP) Press. 2020
 _Sanders KM_, and _Akiyama T_.
 
-[Central Mechanisms of Itch](https://pubmed.ncbi.nlm.nih.gov/27578065/?from_term=akiyama+itch&from_sort=date&from_page=2&from_pos=10)
-<br>
-Carstens E, _Akiyama T_.
-Curr Probl Dermatol. 2016;50:11-7.
+“Serotonin receptors in pain and itch processing” in “Itch and Pain: Similarities, Interactions, and Differences” Yosipovitch G, Andersen HH, and Arendt-Nielsen L (Eds). International Association for the Study of Pain (IASP) Press. 2020
+_Kent S_, _Sanders KM_, and _Akiyama T_. 
+
+“Alloknesis and hyperknesis: sensitization for itch” in “Hyperalgesia and Allodynia” Tsagareli M (Ed), Hauppauge, New York: Nova Science Publishers, Inc. 25-62, 2018
+_Sanders KM_, and _Akiyama T_.
+
+“Cutaneous Neurophysiology” in “4th edition Dermatology” Bolognia JL, Schaffer JV and Cerroni L (Eds), Elsevier 5: 1-11, 2017
+Yosipovitch G, and _Akiyama T_. 
+
+"Central Mechanisms of Itch" in "Itch-Management in Clinical Practice" Szepietowski JC and Weisshaar E (Eds.), Karger 50:11-7, 2016
+_Akiyama T_, and Carstens E. 
+
+“Neural Processing of Itch” in “Pruritus, Second Edition” Laurent Misery and Sonja Stander (Eds.), Springer 3-11, 2016.
+_Akiyama T_, and Carstens E.
+
+“Protease-activated receptors and itch” in “Handbook of Experimental Pharmacology-Pharmacology of Itch” Cowan A and Yosipovitch G. (Eds.), Springer 226:219-235, 2015
+_Akiyama T_, Lerner EA, and Carstens E. 
+
+“Spinal processing of itch and pain” in “Recent evidence of itch and pain” Yasushi Kuraishi (Eds.) in Japanese, Shinko Trading Company Ltd., Publication Department of Medical Books. Pain Clinic. 34(4): 493-504, 2013
+_Akiyama T_
+
+“Assessment of chemically-evoked itch in rodents” in “Pain Models: Translational Relevance and Applications” Hermann O Handwerker (Eds.), IASP press 403-414, 2013
+_Akiyama T_, and Carstens E.
+
+
+
