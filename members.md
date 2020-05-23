@@ -185,7 +185,7 @@ Neuroscience Program
 </div>
 {% endif %}
 
-
+![mouse and cat](images/m_FRS101752.jpg)
 
 
 
