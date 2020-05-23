@@ -19,10 +19,10 @@ Neuroscience Program Faculty
 Human Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
 
-Kent Sakai, PhD  
+_Kent Sakai, PhD_  
 Entry Scientist  
 
-Hideki Funahashi, MD/PhD  
+_Hideki Funahashi, MD/PhD_  
 Postdoctral Scientist   
 
 {% assign number_printed = 0 %}
@@ -87,12 +87,12 @@ Postdoctral Scientist
 {% endif %}
 
 ## PhD Students   
-Darya Pavlenko, MS  
+_Darya Pavlenko, MS_  
 Human Genetics Genomics Program  
    
      
 ## Undergraduate Students   
-Taisa Lozada  
+_Taisa Lozada_  
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -148,7 +148,7 @@ Taisa Lozada
    
    
 ## Alumni
-Kristen Sanders, PhD  
+_Kristen Sanders, PhD_  
 Neuroscience Program
 
 
