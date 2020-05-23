@@ -9,7 +9,7 @@ rank: 4
 
 Members of the Akiyama laboratory indicated in _italic_  
 
-# Journal Articles
+# Journal Articles    
 
 ## 2019
 [Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)
@@ -31,28 +31,29 @@ Hashimoto T, _Sakai K_, _Sanders KM_, Yosipovitch G, _Akiyama T_.
 Acta Derm Venereol. 2019 Mar 1;99(3):298-303.
 
 ## 2018
-[**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583)<br>
-Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
-Journal of Clinical Oncology. December 3, 2018. 
+[Modulation of Itch by Localized Skin Warming and Cooling](https://pubmed.ncbi.nlm.nih.gov/29972224/?from_term=akiyama+itch&from_sort=date&from_pos=7)<br>
+_Sanders KM_, Hashimoto T, _Sakai K_, _Akiyama T_.
+Acta Derm Venereol. 2018 Oct 10;98(9):855-861. 
 
-[**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
+[Effects of Pruritogens and Algogens on Rostral Ventromedial Medullary ON and OFF Cells](https://pubmed.ncbi.nlm.nih.gov/29947594/?from_term=akiyama+itch&from_sort=date&from_pos=8)
 <br>
-**Arthur SE**\*, **Jiang A**\*, **Grande BM**\*, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
-<br>
-Nat Commun. 2018 Oct 1;9(1):4001. doi: 10.1038/s41467-018-06354-3.
+Follansbee T, _Akiyama T_, Fujii M, Davoodi A, Nagamine M, Iodi Carstens M, Carstens E.
+J Neurophysiol. 2018 Nov 1;120(5):2156-2163.
 
-[**Novel Multiplexing Strategies for Quantification of Rare Alleles Using ddPCR.**](https://www.ncbi.nlm.nih.gov/pubmed/29717449)
+[Peripheral Gabapentin Regulates Mosquito Allergy-Induced Itch in Mice](https://pubmed.ncbi.nlm.nih.gov/29842875/?from_term=akiyama+itch&from_sort=date&from_pos=9)
 <br>
-**Alcaide M**, **Morin RD**.
-<br>
-Methods Mol Biol. 2018;1768:275-301. doi: 10.1007/978-1-4939-7778-9\_16.
+_Akiyama T_, Andoh T, Ohtsuka E, Nojima H, Ouchi H, Takahata H, Kuraishi Y.
+Eur J Pharmacol. 2018 Aug 15;833:44-49.
 
-[**The genomic landscape of two Burkitt lymphoma cases and derived cell lines: comparison between primary and relapse samples.**](https://www.ncbi.nlm.nih.gov/pubmed/29295643)
+[Alloknesis and Hyperknesis-Mechanisms, Assessment Methodology, and Clinical Implications of Itch Sensitization](https://pubmed.ncbi.nlm.nih.gov/29659469/?from_term=akiyama+itch&from_sort=date&from_pos=10)
 <br>
-Wever CM, Geoffrion D, **Grande BM**, **Yu S**, **Alcaide M**, Lemaire M, Riazalhosseini Y, Hébert J, Gavino C, Vinh DC, Petrogiannis-Haliotis T, Dmitrienko S, Mann KK, **Morin RD**\*, Johnson NA\*.
-<br>
-Leuk Lymphoma. 2018 Sep;59(9):2159-2174. doi: 10.1080/10428194.2017.1413186. 
+Andersen HH, _Akiyama T_, Nattkemper LA, van Laarhoven A, Elberling J, Yosipovitch G, Arendt-Nielsen L.
+Pain. 2018 Jul;159(7):1185-1197.
 
+[The Vicious Cycle of Itch and Anxiety](https://pubmed.ncbi.nlm.nih.gov/29374516/?from_term=akiyama+itch&from_sort=date&from_page=2&from_pos=1)
+<br>
+_Sanders KM_, _Akiyama T_.
+Neurosci Biobehav Rev. 2018 Apr;87:17-26. 
 
 ## 2017
 
