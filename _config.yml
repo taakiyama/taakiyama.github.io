@@ -106,10 +106,10 @@ footer-img: "images/m_Abstract_Network_Pattern_-_Faded_Colors.jpg"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: "UA-167457442-1"
+gtag: "UA-167457442-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "taakiyama"
+google_analytics: "taakiyama"
 
 # Google Tag Manager ID
 #gtm: ""
