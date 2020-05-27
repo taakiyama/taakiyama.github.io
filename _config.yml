@@ -15,6 +15,7 @@ navbar-links:
   Research: "research"
   Members: "members"
   Publications: "publications"
+  Contact:"contact"
   Resources:
     - SFN: "https://www.sfn.org/"
     - IASP: "https://www.iasp-pain.org/"
