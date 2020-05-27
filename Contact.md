@@ -3,6 +3,8 @@ title: Contact
 layout: page
 excerpt: "Akiyama Lab: Contact"
 sitemap: false
+cover-img: 
+- images/s_Digital_Transformation_Concept_-_Virtual_Hand_Creating_Network.jpg
 permalink: /Contact/
 ---
 
