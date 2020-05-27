@@ -1,11 +1,11 @@
 ---
 title: Contact
 layout: page
-excerpt: "Akiyama Lab: Contact"
+excerpt: "Akiyama Lab: contact"
 sitemap: false
 cover-img: 
 - images/IMG_0838.JPG
-permalink: /Contact/
+permalink: /contact/
 ---
 
 ## Contact
