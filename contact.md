@@ -9,8 +9,8 @@ permalink: /contact/
 ---
 
 ## Mail   
-Tasuku Akiyama  
-University of Miami Miller School of Medicine    
+###### Tasuku Akiyama  
+###### University of Miami Miller School of Medicine    
 1600 NW 10th Ave, RMSB 2063   
 Miami, FL 33136
 
