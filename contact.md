@@ -8,13 +8,14 @@ cover-img:
 permalink: /contact/
 ---
 
-## Contact
-
-:mailbox_with_mail: Tasuku Akiyama  
-University of Miami Miller School of Medicine
-1600 NW 10th Ave, RMSB 2063
+##Mail   
+Tasuku Akiyama  
+University of Miami Miller School of Medicine    
+1600 NW 10th Ave, RMSB 2063   
 Miami, FL 33136
 
-:phone: 305-243-3069
+##phone  
+305-243-3069
 
-:email: [takiyama@miami.edu](mailto:takiyama@miami.edu)
+##email  
+[takiyama@miami.edu](mailto:takiyama@miami.edu)
