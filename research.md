@@ -15,7 +15,7 @@ mouse brain #RNAscope <br />
 amygdala #miniscope  
 - Key words: Amygdala, mPFC
 
-#### 2. Mechanisms behind Relief of Itch by Scratching
+#### 2. Mechanisms behind Relief of Itch by Scratching  
 ![spinal](images/CQ.jpg)  
 spinal itch responses #optogenetics & *in vivo* electrophysiology  
 - Key words: Spinal Cord
