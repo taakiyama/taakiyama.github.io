@@ -9,7 +9,7 @@ cover-img:
 
 #### 1. Brain Circuits of Itch, Pain, and Anxiety
 ![brain](images/RNAscope.jpg)  
-mouse brain #RNAscope
+mouse brain #RNAscope <br />
 <br />
 ![amygdala](images/msCam1_Moment.jpg)  
 amygdala #miniscope  
