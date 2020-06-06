@@ -11,6 +11,7 @@ cover-img:
 ![brain](images/RNAscope.jpg)  
 mouse brain #RNAscope  
 <p>&nbsp;</p>
+
 ![amygdala](images/msCam1_Moment.jpg)  
 amygdala #miniscope  
 - Key words: Amygdala, mPFC
