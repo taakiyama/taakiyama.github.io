@@ -10,7 +10,7 @@ cover-img:
 #### 1. Brain Circuits of Itch, Pain, and Anxiety
 ![brain](images/RNAscope.jpg)  
 mouse brain #RNAscope  
-![amygdala](images/msCam1_Moment.jpg)
+![amygdala](images/msCam1_Moment.jpg)  
 amygdala #miniscope  
 - Key words: Amygdala, mPFC
 
@@ -18,6 +18,6 @@ amygdala #miniscope
 - Key words: Spinal Cord
 
 #### 3. Roles of Neuroimmune Interaction in Itch and Pain
-![neuroimmune interaction](neuroimmune interaction/RNAscope.jpg)
+![neuroimmune interaction](images/neuroimmune interaction.jpg)
 Neuroimmune interaction @epidermis
 - Key words: Cytokines, Neutrophils
