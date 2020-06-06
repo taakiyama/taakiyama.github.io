@@ -8,7 +8,7 @@ cover-img:
 ---
 
 #### 1. Brain Circuits of Itch, Pain, and Anxiety
-![brain](images/Composite (RGB) rev.tif)
+![brain](images/Composite (RGB) rev.jpg)
 - Key words: Amygdala, mPFC
 
 
