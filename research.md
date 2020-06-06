@@ -9,12 +9,15 @@ cover-img:
 
 #### 1. Brain Circuits of Itch, Pain, and Anxiety
 ![brain](images/RNAscope.jpg)  
-Mouse brain #RNAscope 
+mouse brain #RNAscope  
+![amygdala](images/msCam1_Moment.jpg)
+amygdala #miniscope  
 - Key words: Amygdala, mPFC
-
 
 #### 2. Mechanisms behind Relief of Itch by Scratching
 - Key words: Spinal Cord
 
 #### 3. Roles of Neuroimmune Interaction in Itch and Pain
+![neuroimmune interaction](neuroimmune interaction/RNAscope.jpg)
+Neuroimmune interaction @epidermis
 - Key words: Cytokines, Neutrophils
