@@ -18,6 +18,6 @@ amygdala #miniscope
 - Key words: Spinal Cord
 
 #### 3. Roles of Neuroimmune Interaction in Itch and Pain
-![neuroimmune](images/neuroimmune interaction.jpg)
+![neuroimmune](images/Neuroimmune_interaction.jpg)  
 Neuroimmune interaction @epidermis
 - Key words: Cytokines, Neutrophils
