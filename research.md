@@ -8,7 +8,7 @@ cover-img:
 ---
 
 #### 1. Brain Circuits of Itch, Pain, and Anxiety
-![brain](images/RNAscope.jpg) 
+![brain](images/RNAscope.jpg)  
 Mouse brain #RNAscope 
 - Key words: Amygdala, mPFC
 
