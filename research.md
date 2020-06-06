@@ -13,12 +13,14 @@ mouse brain #RNAscope <br />
 <br />
 ![amygdala](images/msCam1_Moment.jpg)  
 amygdala #miniscope  
-- Key words: Amygdala, mPFC
+- Key words: Amygdala, mPFC <br />
+<br />
 
 #### 2. Mechanisms behind Relief of Itch by Scratching  
 ![spinal](images/CQ.jpg)  
 spinal itch responses #optogenetics & *in vivo* electrophysiology  
-- Key words: Spinal Cord
+- Key words: Spinal Cord <br />
+<br />
 
 #### 3. Roles of Neuroimmune Interaction in Itch and Pain
 ![neuroimmune](images/Neuroimmune_interaction.jpg)  
