@@ -11,6 +11,10 @@ Members of the Akiyama laboratory indicated in _italic_
 
 # _Journal Articles_    
 
+## 2020
+[Protease-activated receptor-2 Regulates Neuro-epidermal Communication in Atopic Dermatitis]
+Buhl T, Ikoma A, Kempkes C, Cevikbas F, Sulk M, Buddenkotte J,_Akiyama T_, Crumrine D, Camerer E, Carstens E, Schön MP, Elias P, Coughlin SR, Steinhoff M. Frontiers in Immunology, 2020 (in presss) 
+
 ## 2019
 [Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)   
 Hashimoto T, _Sakai K_, Yosipovitch G, _Akiyama T_. Acta Derm Venereol. 2019 Sep 1;99(10):901-902. 
@@ -84,6 +88,9 @@ J Comp Neurol. 2016 Feb 1;524(2):244-56.
 [## publications (~2015)](https://www.researchgate.net/profile/Tasuku_Akiyama)
 
 # _Review Articles_
+
+[New Insights into the Mechanisms Behind Mechanical Itch]     
+_Sakai K_, _Akiyama T_. Exp Dermatol. 2020 (in press)
 
 [Why Does Stress Aggravate Itch? A Possible Role of the Amygdala](https://pubmed.ncbi.nlm.nih.gov/30991457/?from_term=akiyama+itch&from_sort=date&from_pos=2)     
 _Pavlenko D_, _Akiyama T_. Exp Dermatol. 2019 Dec;28(12):1439-1441.
