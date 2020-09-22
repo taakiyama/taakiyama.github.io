@@ -27,7 +27,7 @@ Exp Dermatol. 2020 Aug;29(8):680-686.
 [Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)   
 Hashimoto T, _Sakai K_, Yosipovitch G, _Akiyama T_. Acta Derm Venereol. 2019 Sep 1;99(10):901-902. 
 
-[A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3)   _Sanders KM_, _Sakai K_, _Henry TD_, Hashimoto T, _Akiyama T_.
+[A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3)     _Sanders KM_, _Sakai K_, _Henry TD_, Hashimoto T, _Akiyama T_.
 J Neurosci. 2019 Apr 24;39(17):3345-3356. 
 
 [Disinhibition of Touch-Evoked Itch in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30571971/?from_term=akiyama+itch&from_sort=date&from_pos=4)    
