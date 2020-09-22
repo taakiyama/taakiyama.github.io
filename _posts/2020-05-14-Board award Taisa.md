@@ -6,4 +6,3 @@ cover-img: /assets/img/path.jpg
 tags: 
 ---
 
-![uniform](/images/Soccer%20uniform.jpg)
