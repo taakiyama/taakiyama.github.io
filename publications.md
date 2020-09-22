@@ -12,17 +12,14 @@ Members of the Akiyama laboratory indicated in _italic_
 # _Journal Articles_    
 
 ## 2020
-[Low-threshold mechanosensitive VGLUT3-lineage sensory neurons mediate spinal inhibition of itch by touch](https://pubmed.ncbi.nlm.nih.gov/32895292/)
-
-_Sakai K_, _Sanders KM_, Lin SH, _Pavlenko D_, _Funahashi H_, _Lozada T_, Hao S, Chen CC, _Akiyama T_
+[Low-threshold mechanosensitive VGLUT3-lineage sensory neurons mediate spinal inhibition of itch by touch](https://pubmed.ncbi.nlm.nih.gov/32895292/)  
+_Sakai K_, _Sanders KM_, Lin SH, _Pavlenko D_, _Funahashi H_, _Lozada T_, Hao S, Chen CC, _Akiyama T_.
 J Neurosci. 2020 Sep 7
 
-[Protease-activated receptor-2 Regulates Neuro-epidermal Communication in Atopic Dermatitis](https://pubmed.ncbi.nlm.nih.gov/32903402/)
+[Protease-activated receptor-2 Regulates Neuro-epidermal Communication in Atopic Dermatitis](https://pubmed.ncbi.nlm.nih.gov/32903402/)  
+Buhl T, Ikoma A, Kempkes C, Cevikbas F, Sulk M, Buddenkotte J, _Akiyama T_, Crumrine D, Camerer E, Carstens E, Schön MP, Elias P, Coughlin SR, Steinhoff M. Frontiers in Immunology, 2020 Aug 12;11:1740 
 
-Buhl T, Ikoma A, Kempkes C, Cevikbas F, Sulk M, Buddenkotte J,_Akiyama T_, Crumrine D, Camerer E, Carstens E, Schön MP, Elias P, Coughlin SR, Steinhoff M. Frontiers in Immunology, 2020 Aug 12;11:1740 
-
-[New insights into the mechanisms behind mechanical itch](https://pubmed.ncbi.nlm.nih.gov/32621303/)
-
+[New insights into the mechanisms behind mechanical itch](https://pubmed.ncbi.nlm.nih.gov/32621303/)  
 _Sakai K_, _Akiyama T_.
 Exp Dermatol. 2020 Aug;29(8):680-686.
 
@@ -30,9 +27,7 @@ Exp Dermatol. 2020 Aug;29(8):680-686.
 [Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)   
 Hashimoto T, _Sakai K_, Yosipovitch G, _Akiyama T_. Acta Derm Venereol. 2019 Sep 1;99(10):901-902. 
 
-[A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3) 
-
-_Sanders KM_, _Sakai K_, _Henry TD_, Hashimoto T, _Akiyama T_.
+[A Subpopulation of Amygdala Neurons Mediates the Affective Component of Itch](https://pubmed.ncbi.nlm.nih.gov/30819800/?from_term=akiyama+itch&from_sort=date&from_pos=3)   _Sanders KM_, _Sakai K_, _Henry TD_, Hashimoto T, _Akiyama T_.
 J Neurosci. 2019 Apr 24;39(17):3345-3356. 
 
 [Disinhibition of Touch-Evoked Itch in a Mouse Model of Psoriasis](https://pubmed.ncbi.nlm.nih.gov/30571971/?from_term=akiyama+itch&from_sort=date&from_pos=4)    
