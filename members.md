@@ -89,7 +89,8 @@ Human Genetics Genomics Program
    
      
 ## Undergraduate Students   
-_Taisa Lozada_  
+_Anika Markan_
+_Gabriella Guerriero_  
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -145,6 +146,9 @@ _Taisa Lozada_
    
    
 ## Alumni
+_Taisa Lozada_
+Undergraduate student
+
 _Kristen Sanders, PhD_  
 Neuroscience Program   
 
