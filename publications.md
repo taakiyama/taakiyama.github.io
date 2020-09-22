@@ -12,17 +12,14 @@ Members of the Akiyama laboratory indicated in _italic_
 # _Journal Articles_    
 
 ## 2020
-[Low-threshold mechanosensitive VGLUT3-lineage sensory neurons mediate spinal inhibition of itch by touch]
-(https://pubmed.ncbi.nlm.nih.gov/32895292/)
+[Low-threshold mechanosensitive VGLUT3-lineage sensory neurons mediate spinal inhibition of itch by touch](https://pubmed.ncbi.nlm.nih.gov/32895292/)
 _Sakai K_, _Sanders KM_, Lin SH,_Pavlenko D_,_Funahashi H_,_Lozada T_,Hao S,Chen CC,_Akiyama T_
 J Neurosci. 2020 Sep 7
 
-[Protease-activated receptor-2 Regulates Neuro-epidermal Communication in Atopic Dermatitis]
-(https://pubmed.ncbi.nlm.nih.gov/32903402/)
+[Protease-activated receptor-2 Regulates Neuro-epidermal Communication in Atopic Dermatitis](https://pubmed.ncbi.nlm.nih.gov/32903402/)
 Buhl T, Ikoma A, Kempkes C, Cevikbas F, Sulk M, Buddenkotte J,_Akiyama T_, Crumrine D, Camerer E, Carstens E, Schön MP, Elias P, Coughlin SR, Steinhoff M. Frontiers in Immunology, 2020 Aug 12;11:1740 
 
-[New insights into the mechanisms behind mechanical itch]
-(https://pubmed.ncbi.nlm.nih.gov/32621303/)
+[New insights into the mechanisms behind mechanical itch](https://pubmed.ncbi.nlm.nih.gov/32621303/)
 _Sakai K_, _Akiyama T_.
 Exp Dermatol. 2020 Aug;29(8):680-686.
 
