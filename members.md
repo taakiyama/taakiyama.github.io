@@ -147,7 +147,7 @@ _Gabriella Guerriero_
    
    
 ## Alumni
-_Taisa Lozada_
+_Taisa Lozada_   
 Undergraduate student
 
 _Kristen Sanders, PhD_  
