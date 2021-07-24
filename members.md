@@ -16,11 +16,8 @@ Neuroscience Program Faculty
 Human Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
 
-_Kent Sakai, PhD_  
+_Hirotake Ishida, PhD_  
 Entry Scientist  
-
-_Hideki Funahashi, MD/PhD_  
-Postdoctral Researcher   
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -86,12 +83,12 @@ Postdoctral Researcher
 ## PhD Students   
 _Darya Pavlenko, MS_  
 Human Genetics Genomics Program  
-   
+
+## Master Students   
+_Hoor A Javed_
      
 ## Undergraduate Students   
 _Anika Markan_
-
-_Gabriella Guerriero_  
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -147,6 +144,15 @@ _Gabriella Guerriero_
    
    
 ## Alumni
+_Kent Sakai, PhD_  
+Entry Scientist  
+
+_Hideki Funahashi, MD/PhD_  
+Postdoctral Researcher   
+
+_Gabriella Guerriero_   
+Undergraduate student
+
 _Taisa Lozada_   
 Undergraduate student
 
