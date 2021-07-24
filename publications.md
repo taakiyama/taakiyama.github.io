@@ -11,10 +11,19 @@ Members of the Akiyama laboratory indicated in _italic_
 
 # _Journal Articles_    
 
+## 2021
+[Crisaborole prevents infiltration of neutrophils to suppress itch in a mouse model of atopic dermatitis](https://journals.lww.com/itch/Fulltext/2021/04010/Crisaborole_prevents_infiltration_of_neutrophils.5.aspx)  
+_Sakai K_, _Sanders KM_, _Pavlenko D_, _Lozada T_, _Akiyama T_.
+Itch. 2021 Apr;6(2):e53.
+
 ## 2020
+[IL-23 modulates histamine-evoked itch and responses of pruriceptors in mice](https://pubmed.ncbi.nlm.nih.gov/33010057/)  
+_Pavlenko D_, _Funahashi H_, _Sakai K_, Hashimoto T, _Lozada T_, Yosipovitch G, _Akiyama T_.
+Exp Dermatol. 2020 Dec;29(12):1209-1215.
+
 [Low-threshold mechanosensitive VGLUT3-lineage sensory neurons mediate spinal inhibition of itch by touch](https://pubmed.ncbi.nlm.nih.gov/32895292/)  
 _Sakai K_, _Sanders KM_, Lin SH, _Pavlenko D_, _Funahashi H_, _Lozada T_, Hao S, Chen CC, _Akiyama T_.
-J Neurosci. 2020 Sep 7
+J Neurosci. 2020 Sep 30;40(40):7688-7701
 
 [Protease-activated receptor-2 Regulates Neuro-epidermal Communication in Atopic Dermatitis](https://pubmed.ncbi.nlm.nih.gov/32903402/)  
 Buhl T, Ikoma A, Kempkes C, Cevikbas F, Sulk M, Buddenkotte J, _Akiyama T_, Crumrine D, Camerer E, Carstens E, Schön MP, Elias P, Coughlin SR, Steinhoff M. Frontiers in Immunology, 2020 Aug 12;11:1740 
@@ -36,6 +45,10 @@ Hashimoto T, _Sakai K_, _Sanders KM_, Yosipovitch G, _Akiyama T_.
 Acta Derm Venereol. 2019 Mar 1;99(3):298-303.
 
 ## 2018
+[Opposing effects of cervical spinal cold block on spinal itch and pain transmission](https://pubmed.ncbi.nlm.nih.gov/34136640/) 
+Carstens E, Carstens MI, _Akiyama T_, Davoodi A, Nagamine M.
+Itch. 2018 Sep;3(3):e16. 
+
 [Modulation of Itch by Localized Skin Warming and Cooling](https://pubmed.ncbi.nlm.nih.gov/29972224/?from_term=akiyama+itch&from_sort=date&from_pos=7)<br>
 _Sanders KM_, Hashimoto T, _Sakai K_, _Akiyama T_.
 Acta Derm Venereol. 2018 Oct 10;98(9):855-861. 
