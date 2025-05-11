@@ -10,6 +10,33 @@ rank: 4
 Members of the Akiyama laboratory indicated in _italic_  
 
 # _Journal Articles_    
+## 2024
+[Activation of NPY2R-expressing amygdala neurons inhibits itch behavior in mice without lateralization](https://pubmed.ncbi.nlm.nih.gov/39333236/)  
+_Pavlenko D_, _Todurga-Seven ZG_, _Sanders KM_, _Markan A_, _Verpile R_, _Ishida H_, _Costo D_, _Akiyama T_.
+Sci Rep. 2024 Sep 27;14(1):22125.
+
+[Cryosim-1: A Cool Solution for Acute and Chronic Itch]
+([https://pubmed.ncbi.nlm.nih.gov/38593191/](https://pubmed.ncbi.nlm.nih.gov/38593191/))
+_Pavlenko D_, _Akiyama T_.
+Br J Dermatol. 2024 May 17;190(6):787.
+
+## 2023
+[Dynorphinergic projections from the central amygdala to the parabrachial nucleus regulate itch](https://pubmed.ncbi.nlm.nih.gov/37399333/)  
+_Funahashi H_, _Pavlenko D_, _Sakai K_, _Verpile R_, _Sanders KM_, _Akiyama T_.
+Acta Derm Venereol. 2023 Aug 22:103:adv13382.
+
+[Crisaborole Inhibits Itch and Pain in Atopic Dermatitis by Preventing Neutrophil Infiltration]
+([(https://pubmed.ncbi.nlm.nih.gov/37605895/)](https://pubmed.ncbi.nlm.nih.gov/37605895/))  
+_Pavlenko D_, _Todurga Z_, _Bystrom L_, _Markan A_, _Verpile R_, _Ishida H_, _Akiyama T_.
+Acta Derm Venereol. 2023 Aug 22:103:adv13382.
+
+[Enhancement of allyl isothiocyanate-evoked responses of mouse trigeminal ganglion cells by the kokumi substance γ-glutamyl-valyl-glycine (γ-EVG) through activation of the calcium-sensing receptor (CaSR)](https://pubmed.ncbi.nlm.nih.gov/36563734/)  
+_Akiyama T_, Curtis E, Carstens MI, Carstens E. 
+Physiol Behav. 2023 Mar;1:260:114063.
+
+[Pellino1 restricts herpes simplex virus infections in the epidermis and dissemination to sebaceous glands](https://pubmed.ncbi.nlm.nih.gov/36216205/)  
+Cai Q, Shelhamer C, _Akiyama T_, Jensen LE. 
+J Invest Dermatol. 2023 Apr;143(4):639-647.
 
 ## 2021
 [Crisaborole prevents infiltration of neutrophils to suppress itch in a mouse model of atopic dermatitis](https://journals.lww.com/itch/Fulltext/2021/04010/Crisaborole_prevents_infiltration_of_neutrophils.5.aspx)  
@@ -27,6 +54,10 @@ J Neurosci. 2020 Sep 30;40(40):7688-7701
 
 [Protease-activated receptor-2 Regulates Neuro-epidermal Communication in Atopic Dermatitis](https://pubmed.ncbi.nlm.nih.gov/32903402/)  
 Buhl T, Ikoma A, Kempkes C, Cevikbas F, Sulk M, Buddenkotte J, _Akiyama T_, Crumrine D, Camerer E, Carstens E, Schön MP, Elias P, Coughlin SR, Steinhoff M. Frontiers in Immunology, 2020 Aug 12;11:1740 
+
+[New insights into the mechanisms behind mechanical itch](https://pubmed.ncbi.nlm.nih.gov/32621303/)  
+_Sakai K_, _Akiyama T_.
+Exp Dermatol. 2020 Aug;29(8):680-686.
 
 ## 2019
 [Signal Transducer and Activator of Transcription 3 in Keratinocytes Regulates Histaminergic Itch but Not Nonhistaminergic Itch](https://pubmed.ncbi.nlm.nih.gov/31141156/?from_term=akiyama+itch&from_sort=date&from_pos=1)   
@@ -105,10 +136,6 @@ J Comp Neurol. 2016 Feb 1;524(2):244-56.
 [## publications (~2015)](https://www.researchgate.net/profile/Tasuku_Akiyama)
 
 # _Review Articles_
-
-[New insights into the mechanisms behind mechanical itch](https://pubmed.ncbi.nlm.nih.gov/32621303/)  
-_Sakai K_, _Akiyama T_.
-Exp Dermatol. 2020 Aug;29(8):680-686.
 
 [Why Does Stress Aggravate Itch? A Possible Role of the Amygdala](https://pubmed.ncbi.nlm.nih.gov/30991457/?from_term=akiyama+itch&from_sort=date&from_pos=2)     
 _Pavlenko D_, _Akiyama T_. Exp Dermatol. 2019 Dec;28(12):1439-1441.
