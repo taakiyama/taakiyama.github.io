@@ -154,10 +154,10 @@ Postdoctoral Researcher
 _Hirotake Ishida, PhD_  
 Postdoctoral Researcher
 
-_Anika Markan_   
+_Anika Markan_  
 Undergraduate student
 
-_Hoor A Javed_   
+_Hoor A Javed_  
 Master student 
 
 _Kent Sakai, PhD_  
