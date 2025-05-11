@@ -15,8 +15,7 @@ Members of the Akiyama laboratory indicated in _italic_
 _Pavlenko D_, _Todurga-Seven ZG_, _Sanders KM_, _Markan A_, _Verpile R_, _Ishida H_, _Costo D_, _Akiyama T_.
 Sci Rep. 2024 Sep 27;14(1):22125.
 
-[Cryosim-1: A Cool Solution for Acute and Chronic Itch]
-([https://pubmed.ncbi.nlm.nih.gov/38593191/](https://pubmed.ncbi.nlm.nih.gov/38593191/))
+[Cryosim-1: A Cool Solution for Acute and Chronic Itch](https://pubmed.ncbi.nlm.nih.gov/38593191/)
 _Pavlenko D_, _Akiyama T_.
 Br J Dermatol. 2024 May 17;190(6):787.
 
@@ -25,8 +24,7 @@ Br J Dermatol. 2024 May 17;190(6):787.
 _Funahashi H_, _Pavlenko D_, _Sakai K_, _Verpile R_, _Sanders KM_, _Akiyama T_.
 Acta Derm Venereol. 2023 Aug 22:103:adv13382.
 
-[Crisaborole Inhibits Itch and Pain in Atopic Dermatitis by Preventing Neutrophil Infiltration]
-([(https://pubmed.ncbi.nlm.nih.gov/37605895/)](https://pubmed.ncbi.nlm.nih.gov/37605895/))  
+[Crisaborole Inhibits Itch and Pain in Atopic Dermatitis by Preventing Neutrophil Infiltration](https://pubmed.ncbi.nlm.nih.gov/37605895/)  
 _Pavlenko D_, _Todurga Z_, _Bystrom L_, _Markan A_, _Verpile R_, _Ishida H_, _Akiyama T_.
 Acta Derm Venereol. 2023 Aug 22:103:adv13382.
 
@@ -166,6 +164,12 @@ Neuroscience. 2013 Oct 10;250:697-714.
 _Akiyama T_, and Carstens E. (Eds.) 
 
 # _Book Chapters_
+“Affective and Reward Pathways in Itch Processing” in “The Neurological and Immunological Basis of Itch and Dermatological Disorders” Dong X, Kim B, and Follansbee T (Eds). Elsevier 2025   
+_Pavlenko D_, and _Akiyama T_.
+
+“Current Understanding of Itch Neural Networks and Circuitry in the Brain” in “Histaminergic and Non-Histaminergic Itch: From Channels to Behavior” Tsagareli M (Ed), Hauppauge, New York: Nova Science Publishers, Inc. 43-58, 2023    
+_Pavlenko D_, and _Akiyama T_.
+
 “Preclinical models of itch and pain” in “Itch and Pain: Similarities, Interactions, and Differences” Yosipovitch G, Andersen HH, and Arendt-Nielsen L (Eds). International Association for the Study of Pain (IASP) Press. 2020   
 _Sanders KM_, and _Akiyama T_.
 
