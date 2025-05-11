@@ -16,8 +16,8 @@ Neuroscience Program Faculty
 Human Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
 
-_Hirotake Ishida, PhD_  
-Entry Scientist  
+_Darya Pavlenko, PhD_  
+Postdotoral Reseracher  
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -81,14 +81,14 @@ Entry Scientist
 {% endif %}
 
 ## PhD Students   
-_Darya Pavlenko, MS_  
-Human Genetics Genomics Program  
-
+ 
 ## Master Students   
-_Hoor A Javed_
      
 ## Undergraduate Students   
-_Anika Markan_
+_Hilary Shapiro_
+
+_Ariana Lopez_ 
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -144,11 +144,23 @@ _Anika Markan_
    
    
 ## Alumni
+_Zeynep Todurga, PhD_  
+Postdoctoral Researcher
+
+_Hirotake Ishida, PhD_  
+Postdoctoral Researcher
+
+_Anika Markan_
+Undergraduate student
+
+_Hoor A Javed_
+Master student 
+
 _Kent Sakai, PhD_  
 Entry Scientist  
 
 _Hideki Funahashi, MD/PhD_  
-Postdoctral Researcher   
+Postdoctoral Researcher   
 
 _Gabriella Guerriero_   
 Undergraduate student
@@ -169,7 +181,7 @@ _Marina Youssef_
 Undergraduate student
 
 _Yoshihiro Inami, PhD_    
-Postdoctral Researcher 
+Postdoctoral Researcher 
 
 _Kevin Yanushefski_    
 Medical student
