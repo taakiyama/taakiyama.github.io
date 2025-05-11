@@ -15,7 +15,7 @@ Members of the Akiyama laboratory indicated in _italic_
 _Pavlenko D_, _Todurga-Seven ZG_, _Sanders KM_, _Markan A_, _Verpile R_, _Ishida H_, _Costo D_, _Akiyama T_.
 Sci Rep. 2024 Sep 27;14(1):22125.
 
-[Cryosim-1: A Cool Solution for Acute and Chronic Itch](https://pubmed.ncbi.nlm.nih.gov/38593191/)
+[Cryosim-1: A Cool Solution for Acute and Chronic Itch](https://pubmed.ncbi.nlm.nih.gov/38593191/)           
 _Pavlenko D_, _Akiyama T_.
 Br J Dermatol. 2024 May 17;190(6):787.
 
