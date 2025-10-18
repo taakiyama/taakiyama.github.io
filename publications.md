@@ -10,6 +10,11 @@ rank: 4
 Members of the Akiyama laboratory indicated in _italic_  
 
 # _Journal Articles_    
+## 2025
+[A subpopulation of projections from the parabrachial nucleus to the central amygdala mediates itch]([https://pubmed.ncbi.nlm.nih.gov/40691451/)  
+_Pavlenko D_, _Ishida H_, _Markan A_, _Akiyama T_.
+Sci Rep. 2025 July 21;15(1):26432.
+
 ## 2024
 [Activation of NPY2R-expressing amygdala neurons inhibits itch behavior in mice without lateralization](https://pubmed.ncbi.nlm.nih.gov/39333236/)  
 _Pavlenko D_, _Todurga-Seven ZG_, _Sanders KM_, _Markan A_, _Verpile R_, _Ishida H_, _Costo D_, _Akiyama T_.
