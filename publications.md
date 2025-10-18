@@ -11,7 +11,7 @@ Members of the Akiyama laboratory indicated in _italic_
 
 # _Journal Articles_    
 ## 2025
-[A subpopulation of projections from the parabrachial nucleus to the central amygdala mediates itch]([https://pubmed.ncbi.nlm.nih.gov/40691451/)  
+[A subpopulation of projections from the parabrachial nucleus to the central amygdala mediates itch](https://pubmed.ncbi.nlm.nih.gov/40691451/)  
 _Pavlenko D_, _Ishida H_, _Markan A_, _Akiyama T_.
 Sci Rep. 2025 July 21;15(1):26432.
 
