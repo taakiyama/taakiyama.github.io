@@ -17,7 +17,11 @@ Human Genetics Genomics Program Faculty
 Director of Animal Studies at the Miami Itch Center  
 
 _Darya Pavlenko, PhD_  
-Postdotoral Reseracher  
+Postdoctoral Researcher 
+
+_Masataka Suehiro, MD, PhD_  
+Postdoctoral Researcher  
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -85,13 +89,15 @@ Postdotoral Reseracher
 
 
 ## Master Students   
-     
-
+    
+_Sophia Talamas_
 
 ## Undergraduate Students   
-_Hilary Shapiro_
 
 _Ariana Lopez_ 
+
+_Charel Sanchez_
+
 
 
 {% assign number_printed = 0 %}
@@ -148,6 +154,9 @@ _Ariana Lopez_
    
    
 ## Alumni
+_Hilary Shapiro_  
+Undergraduate student
+
 _Zeynep Todurga, PhD_  
 Postdoctoral Researcher
 
