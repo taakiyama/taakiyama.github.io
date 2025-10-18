@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Congratulations Darya for a Third Place Winner for Best Research Award!
-subtitle: Congratulations to Darya for a Third Place Winner for Best Research Award, University of Miami Medical Faculty Association!
+title: Congratulations Darya for Hermann Handwerker Prize!
+subtitle: Congratulations to Darya for Hermann Handwerker Prize, WCI 2025!
 cover-img: /assets/img/path.jpg
 ---
 
