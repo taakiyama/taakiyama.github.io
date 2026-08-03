@@ -11,8 +11,7 @@ Members of the Akiyama laboratory indicated in _italic_
 
 # _Journal Articles_    
 ## 2026
-[Altered sensory neuron activity in a mouse model of post-burn pain and itch]
-.(https://pubmed.ncbi.nlm.nih.gov/42304039/)  
+[Altered sensory neuron activity in a mouse model of post-burn pain and itch](https://pubmed.ncbi.nlm.nih.gov/42304039/)  
 _Ishida H_, _Pavlenko D_, _Sakai K_, _Todurga-Seven ZG_, _Tammineni M_, _Hashimoto T_, _Markan A_, _Balbin E_, Boulina M, _Akiyama T_.
 Sci Rep. 2026 June 16; in press.
 
