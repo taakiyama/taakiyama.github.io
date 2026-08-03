@@ -152,10 +152,10 @@ _Cielo Morales_
 _Darya Pavlenko, PhD_  
 Postdoctoral Researcher 
 
-_Sophia Talamas_
+_Sophia Talamas_   
 Master student  
 
-_Ariana Lopez_ 
+_Ariana Lopez_     
 Undergraduate student
 
 _Hilary Shapiro_  
