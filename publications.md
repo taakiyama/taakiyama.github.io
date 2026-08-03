@@ -10,6 +10,12 @@ rank: 4
 Members of the Akiyama laboratory indicated in _italic_  
 
 # _Journal Articles_    
+## 2026
+[Altered sensory neuron activity in a mouse model of post-burn pain and itch]
+.(https://pubmed.ncbi.nlm.nih.gov/42304039/)  
+_Ishida H_, _Pavlenko D_, _Sakai K_, _Todurga-Seven ZG_, _Tammineni M_, _Hashimoto T_, _Markan A_, _Balbin E_, Boulina M, _Akiyama T_.
+Sci Rep. 2026 June 16; in press.
+
 ## 2025
 [A subpopulation of projections from the parabrachial nucleus to the central amygdala mediates itch](https://pubmed.ncbi.nlm.nih.gov/40691451/)  
 _Pavlenko D_, _Ishida H_, _Markan A_, _Akiyama T_.
@@ -30,7 +36,7 @@ _Funahashi H_, _Pavlenko D_, _Sakai K_, _Verpile R_, _Sanders KM_, _Akiyama T_.
 Acta Derm Venereol. 2023 Aug 22:103:adv13382.
 
 [Crisaborole Inhibits Itch and Pain in Atopic Dermatitis by Preventing Neutrophil Infiltration](https://pubmed.ncbi.nlm.nih.gov/37605895/)  
-_Pavlenko D_, _Todurga Z_, _Bystrom L_, _Markan A_, _Verpile R_, _Ishida H_, _Akiyama T_.
+_Pavlenko D_, _Todurga-Seven ZG_, _Bystrom L_, _Markan A_, _Verpile R_, _Ishida H_, _Akiyama T_.
 Acta Derm Venereol. 2023 Aug 22:103:adv13382.
 
 [Enhancement of allyl isothiocyanate-evoked responses of mouse trigeminal ganglion cells by the kokumi substance γ-glutamyl-valyl-glycine (γ-EVG) through activation of the calcium-sensing receptor (CaSR)](https://pubmed.ncbi.nlm.nih.gov/36563734/)  
