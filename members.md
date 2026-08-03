@@ -16,12 +16,11 @@ Neuroscience Program Faculty
 Human Genetics Genomics Program Faculty  
 Director of Animal Studies at the Miami Itch Center  
 
-_Darya Pavlenko, PhD_  
-Postdoctoral Researcher 
-
 _Masataka Suehiro, MD, PhD_  
 Postdoctoral Researcher  
 
+_Thomas OShea, PhD_  
+Postdoctoral Researcher 
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -87,18 +86,14 @@ Postdoctoral Researcher
 ## PhD Students   
  
 
-
 ## Master Students   
     
-_Sophia Talamas_
 
 ## Undergraduate Students   
 
-_Ariana Lopez_ 
-
 _Charel Sanchez_
 
-
+_Cielo Morales_
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -154,6 +149,15 @@ _Charel Sanchez_
    
    
 ## Alumni
+_Darya Pavlenko, PhD_  
+Postdoctoral Researcher 
+
+_Sophia Talamas_
+Master student  
+
+_Ariana Lopez_ 
+Undergraduate student
+
 _Hilary Shapiro_  
 Undergraduate student
 
